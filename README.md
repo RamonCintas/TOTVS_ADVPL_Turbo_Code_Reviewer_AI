@@ -8,6 +8,11 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/978dac19-d447-4b0a-84ed-7e2efeba87b2
 
+<div align="center">
+<img width="1200" height="475" alt="ADVPL" src="site.png" />
+</div>
+
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
