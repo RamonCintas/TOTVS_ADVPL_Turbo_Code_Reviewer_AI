@@ -1,0 +1,8 @@
+{
+  "name": "ADVPL Turbo Reviewer AI",
+  "description": "Uma auditoria inteligente de código ADVPL/TLPP via Gemini AI com relatório standalone em HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
